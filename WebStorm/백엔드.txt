@@ -1,0 +1,5 @@
+virtual Machine
+
+LINUX OS : Ubuntu
+WEB SERVER : Nginx
+DB : MySQL
